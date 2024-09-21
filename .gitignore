@@ -1,0 +1,11 @@
+data/
+logs/
+
+.env
+.env-*
+
+docker-compose.yml
+docker-compose-*
+
+init-database.*
+
